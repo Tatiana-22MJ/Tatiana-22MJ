@@ -10,18 +10,16 @@
 
 ### 🛠️ Tecnologías y Herramientas
 
-#### Frontend
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
-![React](https://shields.io)
+* **Frontend:**
+  * 🌐 `HTML5` • `CSS3` • `JavaScript (ES6)`
+  * ⚛️ `React.js`
 
-#### Backend & Bases de Datos
-![Python](https://shields.io)
-![SQL Server](https://shields.io)
+* **Backend & Bases de Datos:**
+  * 🐍 `Python`
+  * 🛢️ `Microsoft SQL Server`
 
-#### Móvil
-![Kotlin](https://shields.io)
+* **Móvil:**
+  * 📱 `Kotlin`
 
 ---
 
