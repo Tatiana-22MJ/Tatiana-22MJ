@@ -27,11 +27,11 @@
 
 * 🏨 **Hotelica**  
   *Sistema de reservación de hoteles desarrollado para poner en práctica lógica de programación y bases de datos.*  
-  *🔧 Tecnologías: [Agrega aquí qué usaste, ej: Python + SQL Server]*
+ 
 
 * 💄 **Beauty Nicaragua**  
   *Proyecto web enfocado en el diseño de interfaces y experiencia de usuario para el sector estético local.*  
-  *🔧 Tecnologías: [Agrega aquí qué usaste, ej: HTML + CSS + JavaScript]*
+  
 
 ---
 
