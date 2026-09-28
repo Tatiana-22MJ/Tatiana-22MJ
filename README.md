@@ -94,7 +94,7 @@
 
 - 🔨 Trabajando en **Hotelica**
 - 📖 Profundizando en **React** y **bases de datos**
-- 🎌 Anime favorito: TU_ANIME
+- 🎌 Anime favorito: Naruto Shippuden
 
 ## 📈 Metas actuales
 
