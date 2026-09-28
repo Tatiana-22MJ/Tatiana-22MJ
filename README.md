@@ -115,7 +115,7 @@
 ## 🐍 Mis contribuciones
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tatiana-22MJ/Tatiana-22MJ/output/snake-anime.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Tatiana-22MJ/Tatiana-22MJ/output/snake-rosa.svg" alt="Snake animation" />
 </div>
 
 ## 📫 Conecta conmigo
