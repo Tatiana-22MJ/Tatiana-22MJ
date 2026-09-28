@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Hola,%20soy%20Tatiana&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ingeniería%20en%20Sistemas%20•%20Web%20y%20Móvil&descAlignY=58&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Hola,%20soy%20Tatiana&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollo%20Web%20•%20Ingeniería%20en%20Sistemas&descAlignY=58&descSize=16" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=F472B6&center=true&vCenter=true&width=520&lines=Construyendo+bases+sólidas+💻;Diseñando+interfaces+que+enamoran+🎨;Música+%2B+anime+%2B+código+%3D+🎧✨" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=F472B6&center=true&vCenter=true&width=560&lines=Me+encanta+el+desarrollo+web+💻;Diseño+interfaces+bonitas+y+funcionales+🎨;Aprendiendo+un+poquito+más+cada+día+🌱;Música+%2B+anime+%2B+código+%3D+🎧✨" alt="Typing SVG" />
 
 <br/>
 
@@ -15,22 +15,23 @@
 
 ## 🎓 Sobre mí
 
-- 💻 Estudiante de **Ingeniería en Sistemas de Información** (desarrollo web y móvil)
-- 🚀 Desarrolladora junior, construyendo bases sólidas y probando tecnologías nuevas
-- 🎨 Me apasionan las interfaces atractivas y funcionales
-- 🎧 **Música + anime + código** = la combinación perfecta
+- 🌐 **Me encanta el desarrollo web**: ver cómo una idea se convierte en una página que funciona es lo mejor
+- 🎓 Estudiante de **Ingeniería en Sistemas de Información** en la UNP, Managua
+- 🚀 Desarrolladora junior, construyendo bases sólidas y experimentando con tecnologías nuevas
+- 🎨 Me apasionan las interfaces atractivas, claras y fáciles de usar
+- 🎧 **Música + anime + código** = la combinación perfecta para mis proyectos
 
 ## 🛠️ Tecnologías
 
-<div align="center">
+### 🔨 Con lo que construyo
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,kotlin,androidstudio,git,github&theme=dark" />
-
-<br/>
-
+### 🌱 Aprendiendo y practicando
+<img src="https://skillicons.dev/icons?i=react,python,kotlin&theme=dark" />
+&nbsp;
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-</div>
+> 💡 Estoy en camino de dominar estas herramientas: aprendo construyendo proyectos reales.
 
 ## 📌 Proyectos destacados
 
@@ -57,6 +58,21 @@
   </tr>
 </table>
 
+## ⚡ Ahora mismo
+
+- 🔨 Trabajando en **Hotelica**
+- 📖 Profundizando en **React** y **bases de datos**
+- 🎧 Escuchando: TU_CANCIÓN_FAVORITA
+- 🎌 Anime favorito: TU_ANIME
+
+## 📈 Metas actuales
+
+- [ ] 🎯 Crear proyectos reales para consolidar mis habilidades
+- [ ] ⚛️ Dominar React y su integración con bases de datos
+- [ ] 🌐 Construir y publicar más proyectos web
+- [ ] 🏨 Llevar Hotelica a una versión completa y desplegada
+- [ ]  - [ ] 🚀 Aprender nuevas tecnologías de desarrollo web para construir proyectos full-stack completos
+
 ## 📊 Mis estadísticas
 
 <div align="center">
@@ -66,17 +82,17 @@
   <img src="https://streak-stats.demolab.com?user=Tatiana-22MJ&theme=radical&hide_border=true&background=0d1117" />
 </div>
 
-## 📈 Metas actuales
-
-- [ ] 🎯 Crear proyectos reales para consolidar mis habilidades
-- [ ] ⚛️ Dominar React y su integración con bases de datos
-- [ ] 📱 Publicar mi primera app móvil en Kotlin
-
 ## 📫 Conecta conmigo
 
 <div align="center">
-  <a href="https://linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:TU_CORREO"><img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tatiana-solimar-jaime-matinez-23a806397/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:tatianajaimemartinez098@gmail.com"><img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
+
+<br/>
+
+<div align="center">
+  <i>"Todo experto fue alguna vez un principiante."</i> ✨
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" />
