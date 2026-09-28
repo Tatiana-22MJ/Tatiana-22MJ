@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Hola,%20soy%20Tatiana&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollo%20Web%20•%20Ingeniería%20en%20Sistemas&descAlignY=58&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hola,%20soy%20Tatiana&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollo%20Web%20•%20Ingeniería%20en%20Sistemas&descAlignY=58&descSize=16" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=F472B6&center=true&vCenter=true&width=560&lines=Me+encanta+el+desarrollo+web+💻;Diseño+interfaces+bonitas+y+funcionales+🎨;Aprendiendo+un+poquito+más+cada+día+🌱;Música+%2B+anime+%2B+código+%3D+🎧✨" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=F9A8D4&center=true&vCenter=true&width=560&lines=Me+encanta+el+desarrollo+web+💻;Diseño+interfaces+bonitas+y+funcionales+🎨;Aprendiendo+un+poquito+más+cada+día+🌱;Música+%2B+anime+%2B+código+%3D+🎧✨" alt="Typing SVG" />
 
 <br/>
 
-![Visitas](https://komarev.com/ghpvc/?username=Tatiana-22MJ&style=for-the-badge&color=ec4899)
-![Estado](https://img.shields.io/badge/Estado-Aprendiendo_y_creando-8b5cf6?style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=Tatiana-22MJ&style=for-the-badge&color=f9a8d4&label=VISITAS" />
+<img src="https://img.shields.io/badge/Estado-Aprendiendo_y_creando-c4b5fd?style=for-the-badge&labelColor=1e1b2e" />
 
 </div>
 
@@ -21,23 +21,54 @@
 - 🎨 Me apasionan las interfaces atractivas, claras y fáciles de usar
 - 🎧 **Música + anime + código** = la combinación perfecta para mis proyectos
 
+## 🎧 Ahora escuchando
+
+<div align="center">
+  <a href="https://open.spotify.com/user/TU_SPOTIFY_ID">
+    <img src="PEGA_AQUI_LA_URL_DE_SPOTIFY_GITHUB_PROFILE" alt="Spotify" />
+  </a>
+</div>
+
 ## 🛠️ Tecnologías
 
-### 🔨 Con lo que construyo
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github&theme=dark" />
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <h3>🔨 Con lo que construyo</h3>
+      <img src="https://skillicons.dev/icons?i=html,css,js,git,github&theme=dark" />
+      <br/><br/>
+      <sub><b>HTML • CSS • JavaScript • Git</b></sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <h3>🌱 Aprendiendo y practicando</h3>
+      <img src="https://skillicons.dev/icons?i=react,python,kotlin&theme=dark" />
+      <br/>
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+      <br/><br/>
+      <sub><b>React • Python • SQL Server • Kotlin</b></sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <h3>🚀 Quiero aprender</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,ts,tailwind,nextjs,mongodb,figma&theme=dark" />
+      <br/><br/>
+      <sub><b>Node • TypeScript • Tailwind • Next.js • MongoDB • Figma</b></sub>
+    </td>
+  </tr>
+</table>
 
-### 🌱 Aprendiendo y practicando
-<img src="https://skillicons.dev/icons?i=react,python,kotlin&theme=dark" />
-&nbsp;
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+<br/>
 
-> 💡 Estoy en camino de dominar estas herramientas: aprendo construyendo proyectos reales.
+<i>💡 Estoy en camino de dominar estas herramientas: aprendo construyendo proyectos reales.</i>
+
+</div>
 
 ## 📌 Proyectos destacados
 
 <table>
   <tr>
     <td width="50%" valign="top">
+      <img src="assets/hotelica.png" alt="Hotelica" width="100%" />
       <h3>🏨 Hotelica</h3>
       <p>Sistema de reservación de hoteles para practicar lógica de programación y bases de datos.</p>
       <p>
@@ -47,6 +78,7 @@
       <a href="https://github.com/crisurbina0404/Hotelica">Ver repositorio →</a>
     </td>
     <td width="50%" valign="top">
+      <img src="assets/beauty-nicaragua.png" alt="Beauty Nicaragua" width="100%" />
       <h3>💄 Beauty Nicaragua</h3>
       <p>Proyecto web centrado en diseño de interfaces y experiencia de usuario para el sector estético local.</p>
       <p>
@@ -62,31 +94,35 @@
 
 - 🔨 Trabajando en **Hotelica**
 - 📖 Profundizando en **React** y **bases de datos**
-- 🎧 Escuchando: TU_CANCIÓN_FAVORITA
 - 🎌 Anime favorito: TU_ANIME
 
 ## 📈 Metas actuales
 
 - [ ] 🎯 Crear proyectos reales para consolidar mis habilidades
 - [ ] ⚛️ Dominar React y su integración con bases de datos
-- [ ] 🌐 Construir y publicar más proyectos web
+- [ ] 🚀 Aprender nuevas tecnologías de desarrollo web para construir proyectos full-stack completos
 - [ ] 🏨 Llevar Hotelica a una versión completa y desplegada
-- [ ]  - [ ] 🚀 Aprender nuevas tecnologías de desarrollo web para construir proyectos full-stack completos
 
 ## 📊 Mis estadísticas
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tatiana-22MJ&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tatiana-22MJ&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tatiana-22MJ&show_icons=true&hide_border=true&bg_color=1e1b2e&title_color=f9a8d4&text_color=e9d5ff&icon_color=c4b5fd" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tatiana-22MJ&layout=compact&hide_border=true&bg_color=1e1b2e&title_color=f9a8d4&text_color=e9d5ff" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Tatiana-22MJ&theme=radical&hide_border=true&background=0d1117" />
+  <img src="https://streak-stats.demolab.com?user=Tatiana-22MJ&hide_border=true&background=1e1b2e&ring=f9a8d4&fire=c4b5fd&currStreakNum=e9d5ff&sideNums=e9d5ff&currStreakLabel=f9a8d4&sideLabels=c4b5fd&dates=a78bfa" />
+</div>
+
+## 🐍 Mis contribuciones
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tatiana-22MJ/Tatiana-22MJ/output/snake-anime.svg" alt="Snake animation" />
 </div>
 
 ## 📫 Conecta conmigo
 
 <div align="center">
   <a href="https://www.linkedin.com/in/tatiana-solimar-jaime-matinez-23a806397/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:tatianajaimemartinez098@gmail.com"><img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:tatianajaimemartinez098@gmail.com"><img src="https://img.shields.io/badge/Email-F9A8D4?style=for-the-badge&logo=gmail&logoColor=1e1b2e" /></a>
 </div>
 
 <br/>
@@ -95,4 +131,4 @@
   <i>"Todo experto fue alguna vez un principiante."</i> ✨
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
