@@ -77,7 +77,7 @@
       </p>
       <a href="https://github.com/crisurbina0404/Hotelica">Ver repositorio →</a>
     </td>
-       <td width="50%" valign="top">
+   <td width="50%" valign="top">
       <img src="assets/beauty-nicaragua.png" alt="Beauty Nicaragua" width="100%" />
       <h3>💄 Beauty Nicaragua</h3>
       <p>Aplicación web full stack para un salón de belleza en Managua: reservas, chat en tiempo real, panel de administración, recordatorios por WhatsApp y precios en córdobas.</p>
