@@ -77,19 +77,20 @@
       </p>
       <a href="https://github.com/crisurbina0404/Hotelica">Ver repositorio →</a>
     </td>
-    <td width="50%" valign="top">
+       <td width="50%" valign="top">
       <img src="assets/beauty-nicaragua.png" alt="Beauty Nicaragua" width="100%" />
       <h3>💄 Beauty Nicaragua</h3>
-      <p>Proyecto web centrado en diseño de interfaces y experiencia de usuario para el sector estético local.</p>
+      <p>Aplicación web full stack para un salón de belleza en Managua: reservas, chat en tiempo real, panel de administración, recordatorios por WhatsApp y precios en córdobas.</p>
       <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       </p>
       <a href="https://github.com/Tatiana-22MJ/beauty-nicaragua">Ver repositorio →</a>
+      &nbsp;•&nbsp;
+      <a href="https://web-production-6419f.up.railway.app">🌐 Ver demo en vivo →</a>
     </td>
-  </tr>
-</table>
-
 ## ⚡ Ahora mismo
 
 - 🔨 Trabajando en **Hotelica**
