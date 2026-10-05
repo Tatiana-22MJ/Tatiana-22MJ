@@ -21,14 +21,6 @@
 - 🎨 Me apasionan las interfaces atractivas, claras y fáciles de usar
 - 🎧 **Música + anime + código** = la combinación perfecta para mis proyectos
 
-## 🎧 Ahora escuchando
-
-<div align="center">
-  <a href="https://open.spotify.com/user/TU_SPOTIFY_ID">
-    <img src="PEGA_AQUI_LA_URL_DE_SPOTIFY_GITHUB_PROFILE" alt="Spotify" />
-  </a>
-</div>
-
 ## 🛠️ Tecnologías
 
 <div align="center">
@@ -76,8 +68,10 @@
         <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
       </p>
       <a href="https://github.com/crisurbina0404/Hotelica">Ver repositorio →</a>
+      &nbsp;•&nbsp;
+      <a href="https://hotelica-hotelica.vercel.app">🌐 Ver demo en vivo →</a>
     </td>
-   <td width="50%" valign="top">
+    <td width="50%" valign="top">
       <img src="assets/beauty-nicaragua.png" alt="Beauty Nicaragua" width="100%" />
       <h3>💄 Beauty Nicaragua</h3>
       <p>Aplicación web full stack para un salón de belleza en Managua: reservas, chat en tiempo real, panel de administración, recordatorios por WhatsApp y precios en córdobas.</p>
@@ -91,6 +85,9 @@
       &nbsp;•&nbsp;
       <a href="https://web-production-6419f.up.railway.app">🌐 Ver demo en vivo →</a>
     </td>
+  </tr>
+</table>
+
 ## ⚡ Ahora mismo
 
 - 🔨 Trabajando en **Hotelica**
