@@ -55,7 +55,7 @@
 
 </div>
 
-## 📌 Proyectos destacados
+## 📌 Proyectos en desarrollo 
 
 <table>
   <tr>
